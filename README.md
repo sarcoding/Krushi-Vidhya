@@ -4,8 +4,8 @@ Technologies we used:
 Frontend: HTML,CSS
 Backend: Jupyter Notebook,Machine Learning
 Team:              Roles:
-Sarthak Nair       Backend Developer
-Dhrupad Pandya     Frontend Developer
-Bhargav Jivani     Design Lead  
-Pratham Bhatt      Frontend Developer
+<li>Sarthak Nair       Backend Developer</li>
+<li>Dhrupad Pandya     Frontend Developer</li>
+<li>Bhargav Jivani     Design Lead  </li>
+<li>Pratham Bhatt      Frontend Developer</li>
                            The project is still in under development,bascially it is prototype.We coded backend in jupyter notebook(machine learning) but at last we couldn't compile backend with frontend as we didn't have experience in this field still we have included the file in repositry </p>
