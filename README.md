@@ -1,8 +1,9 @@
 # Krushi-Vidhya
 <p>Our project is a web app which takes images of leafes from user and process it and give output if leaf have disease or not.
 Technologies we used:
-Frontend: HTML,CSS
-Backend: Jupyter Notebook,Machine Learning
+<li>Frontend: HTML, CSS</li>
+<li>Backend: Jupyter Notebook,Machine Learning</li>
+  <br>
 Team:              Roles:
 <li>Sarthak Nair       Backend Developer</li>
 <li>Dhrupad Pandya     Frontend Developer</li>
